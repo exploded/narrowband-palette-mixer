@@ -1,0 +1,9 @@
+# Original SetiAstro script, kept locally for reference only
+PerfectPalettePicker.js*
+
+# Image data
+*.xisf
+*.fits
+*.fit
+
+.local/
