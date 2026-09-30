@@ -5,7 +5,9 @@ image. You set how much of each line goes into red, green and blue with
 sliders, and a live preview updates as you drag. The default palette gives the
 copper-and-blue look popular for SHO images, without the green.
 
-![M16 rendered with the Copper & Blue preset](docs/hero.jpg)
+![M16, the Eagle Nebula, processed with Narrowband Palette Mixer](docs/hero.jpg)
+
+*M16, the Eagle Nebula, processed with Narrowband Palette Mixer.*
 
 The mixer is based on
 [Perfect Palette Picker](https://www.setiastro.com) by Franklin Marek
